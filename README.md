@@ -1,4 +1,4 @@
-# probabilistic_machine_learning
+# Probabilistic Machine Learning
 
 ## Discussion around Murphy's book "ML - A Probabilistic Perspective"
 
