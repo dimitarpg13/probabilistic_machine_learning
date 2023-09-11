@@ -21,3 +21,7 @@
 * [Hyperspacing and the Estimation of Information Theoretic Quantities, Learned-Miller, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/HyperspacingsandEstimationofInformationTheoreticQuantities_Learned-Miller2004.pdf)
 
 * [On The Optimality of the Simple Bayesian Classifier under Zero-One Loss, Domingos, Pazzani, 1997](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/OntheOptimalityoftheSimpleBayesianClassifierunderZero-OneLoss.pdf)
+
+## medium
+
+* [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
