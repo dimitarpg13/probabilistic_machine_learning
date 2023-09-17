@@ -25,3 +25,5 @@
 ## medium
 
 * [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
+
+* [Probabilistic ML with Quantile Matching: an Example with Python with Davide Burba](https://towardsdatascience.com/probabilistic-ml-with-quantile-matching-an-example-with-python-c367eee85f18)
