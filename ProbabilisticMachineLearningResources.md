@@ -29,3 +29,5 @@
 * [Probabilistic ML with Quantile Matching: an Example with Python with Davide Burba](https://towardsdatascience.com/probabilistic-ml-with-quantile-matching-an-example-with-python-c367eee85f18)
 
 * [Use Frequency More Frequently with Daniel Warfield](https://towardsdatascience.com/use-frequency-more-frequently-14715714de38)
+
+* [Change Point Detection — A Bayesian Approach with Everton Almeida](https://towardsdatascience.com/change-point-detection-a-bayesian-approach-8eb3cfca4a6e)
