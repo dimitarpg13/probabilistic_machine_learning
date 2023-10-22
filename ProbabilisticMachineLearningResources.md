@@ -31,3 +31,7 @@
 * [Use Frequency More Frequently with Daniel Warfield](https://towardsdatascience.com/use-frequency-more-frequently-14715714de38)
 
 * [Change Point Detection — A Bayesian Approach with Everton Almeida](https://towardsdatascience.com/change-point-detection-a-bayesian-approach-8eb3cfca4a6e)
+
+* [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
+
+* [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
