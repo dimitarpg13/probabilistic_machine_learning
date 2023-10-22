@@ -37,3 +37,5 @@
 * [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
 
 * [Statistical Learning Theory: Hoeffding’s Inequality Derivation & Simulation with Andrew Rothman](https://anr248.medium.com/statistical-learning-theory-hoeffdings-inequality-derivation-simulation-e3a97100d147)
+
+* [The Markov and the Bienaymé–Chebyshev Inequalities with Sachin Date](https://towardsdatascience.com/the-markov-and-the-bienaym%C3%A9-chebyshev-inequalities-cbf7ccc856f9)
