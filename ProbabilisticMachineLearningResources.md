@@ -35,3 +35,5 @@
 * [Rubik’s cubes and Markov chains with Eduardo Teste](https://towardsdatascience.com/a-random-walk-on-the-rubiks-cube-684dd304bf3e)
 
 * [Hidden Markov Models Simplified with Sanjay Dorairaj](https://medium.com/@postsanjay/hidden-markov-models-simplified-c3f58728caab)
+
+* [Statistical Learning Theory: Hoeffding’s Inequality Derivation & Simulation with Andrew Rothman](https://anr248.medium.com/statistical-learning-theory-hoeffdings-inequality-derivation-simulation-e3a97100d147)
