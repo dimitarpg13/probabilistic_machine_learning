@@ -6,6 +6,10 @@
 
 * [Probabilistic Machine Learning: An Introduction (Draft), Kevin P. Murphy, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/ProbablisticMachineLearningIntroMurphy2021Draft.pdf)
 
+* [A First Course in Random Matrix Theory, Marc Potters, Jean-Philippe Bouchaud](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/A_First_Course_in_Random_Matrix_Theory_Marc_Potters_Jean-Philippe_Bouchaud.pdf)
+
+* [Introduction to Random Matrices: Theory and Pracice, Giacomo Livan, Marcel Novaes, Pierpaolo Vivo](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
+
 ## articles
 
 * [Bayesian Data Analysis, 3rd Edition, Gelman, Carlin, Stern, Dunson, et al., 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/BayesianDataAnalysisThirdEdition.pdf)
