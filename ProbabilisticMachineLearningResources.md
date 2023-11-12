@@ -10,6 +10,10 @@
 
 * [Introduction to Random Matrices: Theory and Pracice, Giacomo Livan, Marcel Novaes, Pierpaolo Vivo](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
 
+* [Dynamic Programming and Markov Processes, Ronald A. Howard, 1960, MIT Press](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
+
+* [Markov Processes: Theorems and Problems, E. Dynkin, A. Yushkevich, 1969](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/MarkovProcessesDynkin1969.pdf)
+
 ## articles
 
 * [Bayesian Data Analysis, 3rd Edition, Gelman, Carlin, Stern, Dunson, et al., 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/BayesianDataAnalysisThirdEdition.pdf)
