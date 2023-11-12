@@ -39,3 +39,25 @@
 * [Statistical Learning Theory: Hoeffding’s Inequality Derivation & Simulation with Andrew Rothman](https://anr248.medium.com/statistical-learning-theory-hoeffdings-inequality-derivation-simulation-e3a97100d147)
 
 * [The Markov and the Bienaymé–Chebyshev Inequalities with Sachin Date](https://towardsdatascience.com/the-markov-and-the-bienaym%C3%A9-chebyshev-inequalities-cbf7ccc856f9)
+
+## videos
+
+### Theory of Random Matrices
+
+[Random Matrices: Theory and Practice - Lecture 1, P. Vivo, King's College, London](https://www.youtube.com/watch?v=Je4bU3g_QGk&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=1)
+
+[Random Matrices: Theory and Practice - Lecture 2, P. Vivo, King's College, London](https://www.youtube.com/watch?v=Ods4H8gOJlY&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=2)
+
+[Random Matrices: Theory and Practice - Lecture 3, P. Vivo, King's College, London](https://www.youtube.com/watch?v=te6V9OvtGww&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=3)
+
+[Random Matrices: Theory and Practice - Lecture 4, P. Vivo, King's College, London](https://www.youtube.com/watch?v=6KvQPHdZuoU&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=4)
+
+[Random Matrices: Theory and Practice - Lecture 5, P. Vivo, King's College, London](https://www.youtube.com/watch?v=41_9iWtWRv0&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=5)
+
+[Random Matrices: Theory and Practice - Lecture 6, P. Vivo, King's College, London](https://www.youtube.com/watch?v=vE37-j0D7FM&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=6)
+
+[Random Matrices: Theory and Practice - Lecture 7, P. Vivo, King's College, London](https://www.youtube.com/watch?v=4kgGVpuwDKw&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=7)
+
+[Random Matrices: Theory and Practice - Lecture 8, P. Vivo, King's College, London](https://www.youtube.com/watch?v=pNv62Fjt1n8&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=8)
+
+[Random Matrices: Theory and Practice - Lecture 9, P. Vivo, King's College, London](https://www.youtube.com/watch?v=fXAiSJ1HNlY&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=9)
