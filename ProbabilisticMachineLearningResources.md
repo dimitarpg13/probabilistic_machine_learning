@@ -14,6 +14,8 @@
 
 * [Markov Processes: Theorems and Problems, E. Dynkin, A. Yushkevich, 1969](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/MarkovProcessesDynkin1969.pdf)
 
+* [An Introduction to the Theory of Point Processes: Vol I Elementary Theory and Methods, D.J. Daley, D. Vere-Jones, 2nd Edition, 2002](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/IntroToTheoryOfPointProcessesVol1.pdf)
+
 ## articles
 
 * [Bayesian Data Analysis, 3rd Edition, Gelman, Carlin, Stern, Dunson, et al., 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/BayesianDataAnalysisThirdEdition.pdf)
