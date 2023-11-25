@@ -34,6 +34,16 @@
 
 * [On The Optimality of the Simple Bayesian Classifier under Zero-One Loss, Domingos, Pazzani, 1997](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/OntheOptimalityoftheSimpleBayesianClassifierunderZero-OneLoss.pdf)
 
+* [Modeling Almost Periodicity In Point Processes, N. Shao, PhD Thesis, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
+
+### Theory of Random Matrices and their Applications
+
+* [Introduction to Random Matrices: Theory and Practice, G. Livan, M. Novaes, P. Vivo, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
+
+* [A First Course in Random Matrix Theory, Marc Potters and Jean-Philippe Bouchaud, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/A_First_Course_in_Random_Matrix_Theory_Marc_Potters_Jean-Philippe_Bouchaud.pdf)
+
+* [Can customer arrival rates be modelled by sine waves?, N. Chen et al, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/CanCustomerArrivalRatesBeModeledAsNoisyData.pdf)
+
 ## medium
 
 * [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
