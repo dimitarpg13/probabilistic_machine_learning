@@ -36,6 +36,14 @@
 
 * [Modeling Almost Periodicity In Point Processes, N. Shao, PhD Thesis, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
+### Markov Processes
+
+* [Dynamic Programming and Markov Processes, Ronald A. Howard, 1960](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
+
+* [Markov Processes Theorems and Problems, Evgenii Dynkin, 1969](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/MarkovProcessesDynkin1969.pdf)
+
+* [Reversibility and Stochastic Processes, F.P. Kelly, 1979](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
+
 ### Theory of Random Matrices and their Applications
 
 * [Introduction to Random Matrices: Theory and Practice, G. Livan, M. Novaes, P. Vivo, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
