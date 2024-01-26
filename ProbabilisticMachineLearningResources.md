@@ -14,6 +14,10 @@
 
 * [Principles of Statistical Inference, D.R. Cox, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/PrinciplesOfStatisticalInferenceCox2006/principlesofstatisticalinference_cox_2006.pdf)
 
+* [Probability and Measure, J.R. Norris, Lecture notes, U. of Cambridge](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ProbabilityAndMeasureNorris/ProbabilityAndMeasureNorris.pdf)
+
+* [Probability and Measure, Patrick Billingsley, Third Edition, U. of Chicago, 1995](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ProbabilityAndMeasureBillingsleyThirdEdition.pdf)
+
 * [A First Course in Random Matrix Theory, Marc Potters, Jean-Philippe Bouchaud](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/A_First_Course_in_Random_Matrix_Theory_Marc_Potters_Jean-Philippe_Bouchaud.pdf)
 
 * [Introduction to Random Matrices: Theory and Pracice, Giacomo Livan, Marcel Novaes, Pierpaolo Vivo](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
