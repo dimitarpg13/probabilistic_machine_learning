@@ -12,6 +12,8 @@
 
 * [Experimental Design and Analysis, Howard J. Seltman, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ExperimentalDesignAndAnalysisSeltman/ExperimentalDesignAndAnalysisBookSeltman.pdf)
 
+* [Principles of Statistical Inference, D.R. Cox, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/PrinciplesOfStatisticalInferenceCox2006/principlesofstatisticalinference_cox_2006.pdf)
+
 * [A First Course in Random Matrix Theory, Marc Potters, Jean-Philippe Bouchaud](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/A_First_Course_in_Random_Matrix_Theory_Marc_Potters_Jean-Philippe_Bouchaud.pdf)
 
 * [Introduction to Random Matrices: Theory and Pracice, Giacomo Livan, Marcel Novaes, Pierpaolo Vivo](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
