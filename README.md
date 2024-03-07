@@ -1,5 +1,7 @@
 # Probabilistic Machine Learning
 
+This repository is a work in progress and its contents will be updated regularly.
+
 ## Discussion around Murphy's book "ML - A Probabilistic Perspective"
 
 
