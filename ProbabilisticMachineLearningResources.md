@@ -60,6 +60,10 @@
 
 * [Reversibility and Stochastic Processes, F.P. Kelly, 1979](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
 
+### Bayesian Optimization
+
+* [nformation-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
+
 ### Theory of Random Matrices and their Applications
 
 * [Introduction to Random Matrices: Theory and Practice, G. Livan, M. Novaes, P. Vivo, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
