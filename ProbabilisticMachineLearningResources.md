@@ -32,6 +32,8 @@
 
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
 
+* [Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond, Bernhard Schoelkopf, Alexander J. Smola, MIT, 2002](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/scholkopf2002learning_with_kernels.pdf)
+
 ## articles
 
 * [Bayesian Data Analysis, 3rd Edition, Gelman, Carlin, Stern, Dunson, et al., 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/BayesianDataAnalysisThirdEdition.pdf)
