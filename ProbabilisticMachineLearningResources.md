@@ -113,3 +113,7 @@
 [Random Matrices: Theory and Practice - Lecture 8, P. Vivo, King's College, London](https://www.youtube.com/watch?v=pNv62Fjt1n8&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=8)
 
 [Random Matrices: Theory and Practice - Lecture 9, P. Vivo, King's College, London](https://www.youtube.com/watch?v=fXAiSJ1HNlY&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=9)
+
+### online books, blogs and tutorials
+
+[Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
