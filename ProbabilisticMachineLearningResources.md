@@ -92,6 +92,8 @@
 
 * [The Markov and the Bienaymé–Chebyshev Inequalities with Sachin Date](https://towardsdatascience.com/the-markov-and-the-bienaym%C3%A9-chebyshev-inequalities-cbf7ccc856f9)
 
+* [Probabilistic Programming with Differential Equation Models, Laura Mansfield, Aug 19, 2019](https://medium.com/informatics-lab/probabilistic-programming-with-differential-equation-models-16cdf9948a74)
+
 ## online videos, books, blogs and tutorials
 
 ### Theory of Random Matrices
