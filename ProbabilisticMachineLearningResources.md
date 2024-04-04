@@ -119,3 +119,7 @@
 ### Bayesian Methods
 
 [Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+### Gaussian Processes
+
+[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
