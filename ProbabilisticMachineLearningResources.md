@@ -123,3 +123,7 @@
 ### Gaussian Processes
 
 [Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+
+### Bayesian Optimization
+
+[Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
