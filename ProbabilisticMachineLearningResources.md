@@ -119,3 +119,13 @@
 ### Bayesian Methods
 
 [Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+### Gaussian Processes
+
+[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+
+### Bayesian Optimization
+
+[Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
+
+[Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
