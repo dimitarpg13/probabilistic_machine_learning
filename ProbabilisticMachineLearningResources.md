@@ -116,16 +116,36 @@
 
 [Random Matrices: Theory and Practice - Lecture 9, P. Vivo, King's College, London](https://www.youtube.com/watch?v=fXAiSJ1HNlY&list=PLyHAvCibkccQEFYXdM6r8WG4GQULRKmRA&index=9)
 
-### Bayesian Methods
+### Bayesian Methods and Bayesian Learning
 
 [Bayesian Methods for Hackers, Cam Davidson Pilon, online book on github](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
+[Bayesian Learning for Linear Models, Nando de Freitas (part 1), BCSC 540, UBC Jan 24, 2013](https://youtu.be/Fae0j1WN1zA)
+
+[Bayesian Learning for Linear Models, Nando de Freitas (part 2), BCSC 540, UBC Jan 24, 2013](https://youtu.be/2KXoC6Dxhxs)
+
 ### Gaussian Processes
 
-[Introduction to Gaussian Processes and Gaussian Process Regression, Nando Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+[Introduction to Gaussian Processes and Gaussian Process Regression, Nando de Freitas, CBSC 540, UBC Jan 31, 2013](https://youtu.be/4vGiHC35j9s)
+
+[Active Learning with Gaussian Processes, Nando de Freitas, BCSC 540, UBC Feb 05, 2013](https://youtu.be/MfHKW5z-OOA)
 
 ### Bayesian Optimization
 
-[Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
+[Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
 
 [Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
+
+### Decision Trees and Random Forests
+
+[Decision Trees for Classification, Nando de Freitas, CBSC 540, UBC, Feb 12, 2013](https://youtu.be/-dCtJjlEEgM)
+
+[Random forests, aka decision forests, and ensemble methods, Nando de Freitas, CBSC 540, UBC, Feb 14, 2013](https://youtu.be/3kYujfDgmNk)
+
+[Applications of random forests: kinect, object detection and regression, Nando de Freitas, CBSC 540, UBC, Feb 26, 2013](https://youtu.be/zFGPjRPwyFw)
+
+### MCMC
+
+[Importance sampling and Markov chain Monte Carlo (MCMC). Application to logistic regression, Nando de Freitas, CBSC 540, UBC, March 19, 2013](https://youtu.be/TNZk8lo4e-Q)
+
+[Metropolis-Hastings algorithm. Application to logistic regression, Nando de Freitas, CBSC 540, UBC, March 21, 2013](https://youtu.be/sK3cg15g8FI)
