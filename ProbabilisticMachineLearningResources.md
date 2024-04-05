@@ -6,6 +6,8 @@
 
 * [Probabilistic Machine Learning: An Introduction (Draft), Kevin P. Murphy, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/ProbablisticMachineLearningIntroMurphy2021Draft.pdf)
 
+* [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+
 * [Bayesian Data Analysis, 3rd edition, Andrew Gelman, John B. Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianDataAnalysisGellman/BayesianDataAnalysisThirdEdition.pdf)
 
 * [Baeysian Theory, Jose Bernardo, Adrian Smith, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianTheoryBernardo/BayesianTheoryBernardo_wiley1994.pdf)
