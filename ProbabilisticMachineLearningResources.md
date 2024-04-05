@@ -64,6 +64,12 @@
 
 * [Reversibility and Stochastic Processes, F.P. Kelly, 1979](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
 
+### MCMC
+
+* [A Tutorial on Markov Chain Monte-Carlo and Bayesian Modeling, Martin B. Haugh, Imperial College London, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/A_Tutorial_on_Markov_Chain_Monte-Carlo_and_Bayesian_Modeling_Haugh_ImperialCollege_2021.pdf)
+
+* [Tutorial on Markov Chain Monte Carlo, Kenneth M. Hanson, Los Alamos National Laboratory, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/docs/Tutorial_on_MCMC_Hanson_LosAlamos_2000.pdf)
+
 ### Bayesian Optimization
 
 * [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
