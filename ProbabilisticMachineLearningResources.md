@@ -8,9 +8,13 @@
 
 * [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
+* [The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation, Christian P. Robert, 2nd Edition, 2007](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bayesian_Choice_Christian_Robert_2ndEd_2007.pdf)
+
 * [Bayesian Data Analysis, 3rd edition, Andrew Gelman, John B. Carlin, Hal Stern, David Dunson, Aki Vehtari, Donald Rubin, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianDataAnalysisGellman/BayesianDataAnalysisThirdEdition.pdf)
 
 * [Baeysian Theory, Jose Bernardo, Adrian Smith, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianTheoryBernardo/BayesianTheoryBernardo_wiley1994.pdf)
+
+* [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
 
 * [Experimental Design and Analysis, Howard J. Seltman, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ExperimentalDesignAndAnalysisSeltman/ExperimentalDesignAndAnalysisBookSeltman.pdf)
 
