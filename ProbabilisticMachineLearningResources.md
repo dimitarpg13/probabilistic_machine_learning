@@ -74,6 +74,8 @@
 
 * [Tutorial on Markov Chain Monte Carlo, Kenneth M. Hanson, Los Alamos National Laboratory, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/docs/Tutorial_on_MCMC_Hanson_LosAlamos_2000.pdf)
 
+* [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
+
 ### Bayesian Optimization
 
 * [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
