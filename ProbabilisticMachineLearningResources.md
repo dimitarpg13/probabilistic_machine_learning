@@ -14,6 +14,8 @@
 
 * [Baeysian Theory, Jose Bernardo, Adrian Smith, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianTheoryBernardo/BayesianTheoryBernardo_wiley1994.pdf)
 
+* [Statistical Rethinking: A Bayesian Course with Examples of R and Stan, Richard McElreath, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/StatisticalRethinkingABayesianCourseMcElreath/statistical-rethinking-a-bayesian-course-with-examples-in-r-and-stan-2ed.pdf)
+
 * [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
 
 * [Experimental Design and Analysis, Howard J. Seltman, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ExperimentalDesignAndAnalysisSeltman/ExperimentalDesignAndAnalysisBookSeltman.pdf)
