@@ -6,6 +6,8 @@
 
 * [Probabilistic Machine Learning: An Introduction (Draft), Kevin P. Murphy, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/ProbablisticMachineLearningIntroMurphy2021Draft.pdf)
 
+* [The Design of Experiments, R.A. Fisher, Reprint 1974 (First edition 1935)](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/TheDesignOfExperimentsFisher1956/TheDesignOfExpirments_Fisher_7ed_1956.pdf)
+
 * [Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
 * [The Bayesian Choice: From Decision-Theoretic Foundations to Computational Implementation, Christian P. Robert, 2nd Edition, 2007](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bayesian_Choice_Christian_Robert_2ndEd_2007.pdf)
