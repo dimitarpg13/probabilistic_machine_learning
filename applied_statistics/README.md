@@ -1,3 +1,3 @@
-# Resource on Applied Statistics
+# Resource in Applied Statistics
 
 
