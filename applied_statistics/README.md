@@ -10,4 +10,6 @@
 
 [Gamma distribution, Wikipedia](https://en.wikipedia.org/wiki/Gamma_distribution)
 
-[Student t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
+[Student t-distribution, Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
+
+[Beta distribution, Wikipedia](https://en.wikipedia.org/wiki/Beta_distribution)
