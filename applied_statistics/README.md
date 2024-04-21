@@ -18,6 +18,6 @@
 
 [Multivariate Gaussian Distribution, Wikipedia](https://en.wikipedia.org/wiki/Multivariate_normal_distribution)
 
-[Multivariate Student t distribution](https://en.wikipedia.org/wiki/Multivariate_t-distribution)
+[Multivariate Student t distribution, Wikipedia](https://en.wikipedia.org/wiki/Multivariate_t-distribution)
 
-[Mulitvariate Laplace distribution](https://en.wikipedia.org/wiki/Multivariate_Laplace_distribution)
+[Mulitvariate Laplace distribution, Wikipedia](https://en.wikipedia.org/wiki/Multivariate_Laplace_distribution)
