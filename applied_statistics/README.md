@@ -9,3 +9,5 @@
 [Chi-squared distribution, Wikipedia](https://en.wikipedia.org/wiki/Chi-squared_distribution)
 
 [Gamma distribution, Wikipedia](https://en.wikipedia.org/wiki/Gamma_distribution)
+
+[Student t-distribution](https://en.wikipedia.org/wiki/Student%27s_t-distribution)
