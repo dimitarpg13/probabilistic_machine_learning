@@ -1,0 +1,6 @@
+[submodule "src/examples/probabilistic_models"]
+	path = src/examples/probabilistic_models
+	url = https://github.com/dimitarpg13/probabilistic_model_examples.git
+[submodule "src/examples/demos/pymc-demo"]
+	path = src/examples/demos/pymc-demo
+	url = https://github.com/dimitarpg13/pymc-demo.git
