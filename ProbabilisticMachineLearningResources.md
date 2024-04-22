@@ -72,6 +72,8 @@
 
 * [Reversibility and Stochastic Processes, F.P. Kelly, 1979](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/Reversibility_and_Stochastic_Processes_Kelly_1979.pdf)
 
+* [Hidden Markov Models Lecture Notes, Ramon van Handel, 2008](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/Hidden_Markov_Models_Lecture_Notes_vanHandel_2008.pdf)
+
 ### MCMC
 
 * [A Tutorial on Markov Chain Monte-Carlo and Bayesian Modeling, Martin B. Haugh, Imperial College London, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/A_Tutorial_on_Markov_Chain_Monte-Carlo_and_Bayesian_Modeling_Haugh_ImperialCollege_2021.pdf)
