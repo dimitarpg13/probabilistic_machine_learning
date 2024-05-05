@@ -82,6 +82,10 @@
 
 * [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
 
+* [Creating animations with MCMC, Jan Krepl, online blog, 2024](https://jankrepl.github.io/creating-animations-with-MCMC/)
+
+  relate repo: https://github.com/ColCarroll/imcmc
+
 ### Bayesian Optimization
 * [Vanilla Bayesian Optimization Performs Great in High Dimensions, Carl Hvarfner, Erik O. Hellsten, Luigi Nardi, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Vanilla_Bayesian_Optimization_Performs_Great_in_High_Dimensions_Hvarfner_2024.pdf)
 
