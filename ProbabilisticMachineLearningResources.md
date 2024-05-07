@@ -82,9 +82,41 @@
 
 * [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
 
+* [Creating animations with MCMC, Jan Krepl, online blog, 2024](https://jankrepl.github.io/creating-animations-with-MCMC/)
+
+  relate repo: https://github.com/ColCarroll/imcmc
+
 ### Bayesian Optimization
+* [Vanilla Bayesian Optimization Performs Great in High Dimensions, Carl Hvarfner, Erik O. Hellsten, Luigi Nardi, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Vanilla_Bayesian_Optimization_Performs_Great_in_High_Dimensions_Hvarfner_2024.pdf)
 
 * [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
+
+* [Bayesian optimization and multi-armed bandits, Nando de Freitas, 2013, youtube lecture](https://www.youtube.com/watch?v=vz3D36VXefI)
+
+* [Pareto Front-Diverse Batch Multi-Objective Bayesian Optimization, A. Ahmadianshalchi et al, AAAI 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Pareto_Front-Diverse_Batch_Multi-Objective_Bayesian_Optimization_Ahmadianshalchi_2024.pdf)
+
+* [Practical Bayesian Optimization, Danel J. Lizotte, U of Alberta, PhD thesis, 2008](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf)
+
+* [Taking the Human Out of the Loop: A Review of Bayesian Optimization, B. Shahriari et al, UBC, 2016](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Taking_the_Human_Out_of_the_Loop-A_Review_of_Bayesian_Optimization_Shahriari_UBC_2016.pdf)
+
+* [Bayesian Optimization for Multi-objective Optimization and Multi-point Search, T. Wada et al, Kobe Steel Ltd, ISM, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Bayesian_Optimization_for_Multi-objective_Optimization_and_Multi-point_Search_Wada_KobeSteel_2019.pdf)
+
+* [Multi-objective Bayesian optimisation with preferences over the objectives, M. Abdolshah et al, NeurIPS 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/NeurIPS-2019-multi-objective-bayesian-optimisation-with-preferences-over-objectives-Paper.pdf)
+
+* [Max-value Entropy Search for Multi-Objective Bayesian Optimization, S. Belakaria et al, WSU, NeurIPS 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/NeurIPS-2019-max-value-entropy-search-for-multi-objective-bayesian-optimization-Paper.pdf)
+
+* [Multi-objective Bayesian Optimization using Pareto-frontier Entropy, S. Suzuki et al, ICML 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Multi-objective_Bayesian_Optimization_using_Pareto-frontier_Entropy_Suzuki_ICML_2020.pdf)
+
+* [Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations, M. Lukovic et al, MIT CSAIL, NeurIPS 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Diversity-Guided_Multi-Objective_Bayesian_Optimization_With_Batch_Evaluations_Lukovic_MIT_CSAIL_NeurIPS_2020.pdf)
+
+    related github repo: https://github.com/yunshengtian/DGEMO
+
+* [Improved Max-value Entropy Search for Multi-objective Bayesian Optimization with Constraints, D. Fernandez-Sanchez et al, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Improved_Max-value_Entropy_Search_for_Multi-objective_Bayesian_Optimization_with_Constrain_Fernandez-Sanchez_2021.pdf)
+
+* [Multi-Dimensional Bayesian Optimization over High-Dimensional Search Spaces, S. Daulton et al, U of Oxford, UAI 2022](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Multi-Objective_Bayesian_Optimization_over_High-Dimensional_Search_Spaces_UofOxford_daulton22a.pdf)
+
+* [A New Acquisition Function for Multi-objective Bayesian Optimization: Correlated Probability of Improvement, K. Yang, UAS-Upper Austria, CSU Changsha, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_New_Acquisition_Function_for_Multi-objective_Bayesian_Optimization-Correlated_Probability_of_Improvement_Yang_UAS-UpperAustria_2023.pdf)
+
 
 ### Theory of Random Matrices and their Applications
 
