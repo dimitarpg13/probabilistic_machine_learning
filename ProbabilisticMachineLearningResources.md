@@ -188,6 +188,8 @@
 
 [Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
 
+[Bayesian Optimization, Marc Deisenroth, COMP0168 (2020/21)](https://youtu.be/_SC5_2vkgbA)
+
 ### Decision Trees and Random Forests
 
 [Decision Trees for Classification, Nando de Freitas, CBSC 540, UBC, Feb 12, 2013](https://youtu.be/-dCtJjlEEgM)
