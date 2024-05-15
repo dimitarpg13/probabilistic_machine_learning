@@ -192,6 +192,8 @@
 
 [Bayesian Optimization, Marc Deisenroth, COMP0168 (2020/21)](https://youtu.be/_SC5_2vkgbA)
 
+[Bayesian Optimization, Roman Garnett, Tübingen Machine Learning, Probabilistic Numerics Spring School 2023 in Tübingen, March 2023](https://youtu.be/wZODGJzKmD0)
+
 ### Decision Trees and Random Forests
 
 [Decision Trees for Classification, Nando de Freitas, CBSC 540, UBC, Feb 12, 2013](https://youtu.be/-dCtJjlEEgM)
