@@ -87,6 +87,8 @@
   relate repo: https://github.com/ColCarroll/imcmc
 
 ### Bayesian Optimization
+* [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, Eric Brochu, Vlad M. Cora and Nando Freitas, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_Tutorial_on_Bayesian_Optimization_of_Expensive_Cost_Functions_Brochu_2010.pdf)
+
 * [Vanilla Bayesian Optimization Performs Great in High Dimensions, Carl Hvarfner, Erik O. Hellsten, Luigi Nardi, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Vanilla_Bayesian_Optimization_Performs_Great_in_High_Dimensions_Hvarfner_2024.pdf)
 
 * [Information-Theoretic Safe Bayesian Optimization, AG Bottero et al, TU Darmstadt, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Information-Theoretic_Safe_Bayesian_Optimization_Bottero_2024.pdf)
@@ -187,6 +189,10 @@
 [Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
 
 [Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
+
+[Bayesian Optimization, Marc Deisenroth, COMP0168 (2020/21)](https://youtu.be/_SC5_2vkgbA)
+
+[Bayesian Optimization, Roman Garnett, Tübingen Machine Learning, Probabilistic Numerics Spring School 2023 in Tübingen, March 2023](https://youtu.be/wZODGJzKmD0)
 
 ### Decision Trees and Random Forests
 
