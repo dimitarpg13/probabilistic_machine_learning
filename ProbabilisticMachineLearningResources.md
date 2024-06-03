@@ -95,6 +95,8 @@
 
 * [Bayesian optimization and multi-armed bandits, Nando de Freitas, 2013, youtube lecture](https://www.youtube.com/watch?v=vz3D36VXefI)
 
+* [Bayesian optimization, Matthew W. Hoffman, DeepMind, UAI 2018, youtube presentation](https://youtu.be/C5nqEHpdyoE?si=qOUBK1ZhG2ih)
+
 * [Pareto Front-Diverse Batch Multi-Objective Bayesian Optimization, A. Ahmadianshalchi et al, AAAI 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Pareto_Front-Diverse_Batch_Multi-Objective_Bayesian_Optimization_Ahmadianshalchi_2024.pdf)
 
 * [Practical Bayesian Optimization, Danel J. Lizotte, U of Alberta, PhD thesis, 2008](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/PracticalBayesianOptimization_lizotte_phd_thesis_2008.pdf)
