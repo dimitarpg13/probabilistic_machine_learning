@@ -86,6 +86,10 @@
 
   relate repo: https://github.com/ColCarroll/imcmc
 
+### Gaussian Processes
+
+* [Deep Gaussian Processes - A Survey, Kalvik Jakkala, UNCC, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Deep_Gaussian_Processes-A_Survey_Jakkala_2021.pdf)
+
 ### Bayesian Optimization
 * [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, Eric Brochu, Vlad M. Cora and Nando Freitas, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_Tutorial_on_Bayesian_Optimization_of_Expensive_Cost_Functions_Brochu_2010.pdf)
 
