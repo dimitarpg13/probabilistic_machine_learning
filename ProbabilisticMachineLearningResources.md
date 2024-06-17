@@ -86,7 +86,30 @@
 
   relate repo: https://github.com/ColCarroll/imcmc
 
+### Gaussian Processes
+
+* [Gaussian Processes in Machine Learning, C.E. Rasmussen, C.K. Williams, MIT Press, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Gaussian_Processes_for_Machine_Learning_RasumussenWilliamsBook.pdf)
+
+* [Gaussian Processes in Machine Learning, C.E. Rasmussen, Max Planck Institute for Biological Cybernetics, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Gaussian_Processes_in_Machine_Learning_Rassmussen_2004.pdf)
+
+* [An Introduction to Gaussian Process Models, Thomas Beckers, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/An_Introduction_to_Gaussian_Process_Models_Beckers_2021.pdf)
+
+* [An Introduction to Gaussian Process Regression, Andreas Lindholm et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/An_introduction_to_Gaussian_process_regression_Lindholm_2019.pdf)
+
+* [A Tutorial on Gaussian Process Regression: Modeling, Exploring and Exploiting Functions, Eric Schultz et al, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/A_tutorial_on_Gaussian_process_regression-Modelling_exploring_and_exploiting_functions_Schultz_2017.pdf)
+
+* [Gaussian Process Models for Robust Regression, Classification and Reinforcement Learning, Malte Kuss, Thesis, TU-Darmstadt, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Gaussian_Process_Models_for_Robust_Regression_Classification_and_Reinforcement_Learning_ThesisMalte_2006.pdf)
+
+* [Regression and Classification Using Gaussian Process Priorts, Radford M. Neal, 1998](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Regression_and_Classification_Using_Gaussian_Process_Priors_Neal_1998.pdf)
+
+* [Gaussian Processes for Regression, C.K.I Williams, C.E. Rasmussen, NIPS, 1995](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/NIPS-1995-gaussian-processes-for-regression-Paper.pdf)
+
+* [Sparse Greedy Gaussian Process Regression, Alex J. Smolla, Peter Bartlett, NIPS, 2000](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/NIPS-2000-sparse-greedy-gaussian-process-regression-Paper.pdf)
+
+* [Deep Gaussian Processes - A Survey, Kalvik Jakkala, UNCC, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GaussianProcesses/Deep_Gaussian_Processes-A_Survey_Jakkala_2021.pdf)
+
 ### Bayesian Optimization
+
 * [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, Eric Brochu, Vlad M. Cora and Nando Freitas, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_Tutorial_on_Bayesian_Optimization_of_Expensive_Cost_Functions_Brochu_2010.pdf)
 
 * [Vanilla Bayesian Optimization Performs Great in High Dimensions, Carl Hvarfner, Erik O. Hellsten, Luigi Nardi, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Vanilla_Bayesian_Optimization_Performs_Great_in_High_Dimensions_Hvarfner_2024.pdf)
