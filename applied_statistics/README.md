@@ -2,6 +2,10 @@
 
 ## articles
 
+[On The Problem of the Most Efficient Tests of Statistical Hypotheses, J. Neyman, E.S. Pearson, 1933](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/NeymanPearson1933.pdf)
+
+[Limiting Distributions of Certain Statistics, J.L. Doob, 1938](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/LimitingDistributionsOfCertainStatisticsDoob1938.pdf)
+
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
 ## Statistical Distributions
