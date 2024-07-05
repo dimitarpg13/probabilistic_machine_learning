@@ -6,6 +6,8 @@
 
 [Limiting Distributions of Certain Statistics, J.L. Doob, 1938](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/LimitingDistributionsOfCertainStatisticsDoob1938.pdf)
 
+[On Stochastic and Order Relationships, H.B. Mann, A. Wald, 1943](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnStochasticLimitsAndOrderRelationshipsMann1943.pdf)
+
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
 ## Statistical Distributions
