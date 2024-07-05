@@ -20,6 +20,8 @@
 
 [Central Limit Theorems for Empirical Measures, R.M. Dudley, MIT, 1978](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/CentralLimitTheoremForEmpiricalMeasuresDudley1978.pdf)
 
+[The Likelihood Ratio, Wald, and Lagrange Multiplier Tests, A. Buse, 1982](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/The_Likelihood_Ratio_Wald_and_Lagrange_Multiplier_Tests_Buse_1982.pdf)
+
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
 ## Statistical Distributions
