@@ -10,6 +10,8 @@
 
 [On Stochastic and Order Relationships, H.B. Mann, A. Wald, 1943](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnStochasticLimitsAndOrderRelationshipsMann1943.pdf)
 
+[Empirical Bayes Approach to Statistics, Herbert Robbins, Columbia U., 1956](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Empirical_Bayes_Approach_to_Statistics_Robbins_Columbia_1956.pdf)
+
 [On Transformation of Characteristic Functions, Eugene Lukasz, 1957](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTransformationOfAnalyticsFunctionsLukacs1957.pdf)
 
 [On the Arithmetical Properties of Certain Entire Analytical Functions, Eugene Lukasz, 1966](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheArithmeticPropertiesOfCertainEntireAnalyticFunctionsLukacs.pdf)
