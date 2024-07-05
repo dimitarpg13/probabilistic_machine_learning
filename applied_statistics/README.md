@@ -14,6 +14,8 @@
 
 [On the Arithmetical Properties of Certain Entire Analytical Functions, Eugene Lukasz, 1966](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheArithmeticPropertiesOfCertainEntireAnalyticFunctionsLukacs.pdf)
 
+[The Empirical Characteristic Function and Its Applications, Andrey Feuerverger, Roman A. Mureika, 1977](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/EmpiricalCharacteristicFunctionAndItsApplicationsFeuerverger1977.pdf)
+
 [Central Limit Theorems for Empirical Measures, R.M. Dudley, MIT, 1978](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/CentralLimitTheoremForEmpiricalMeasuresDudley1978.pdf)
 
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
