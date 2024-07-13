@@ -209,6 +209,8 @@
 
 [Active Learning with Gaussian Processes, Nando de Freitas, BCSC 540, UBC Feb 05, 2013](https://youtu.be/MfHKW5z-OOA)
 
+[Machine Learning Tutorial at Imperial College London: Gaussian Processes Richard Turner (University of Cambridge) November 23, 2016](https://youtu.be/92-98SYOdlY?si=nc8sWBCY43Im0j0j)
+
 ### Bayesian Optimization
 
 [Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
