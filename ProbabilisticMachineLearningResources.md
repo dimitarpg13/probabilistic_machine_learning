@@ -215,6 +215,8 @@
 
 [Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
 
+[Machine Learning Tutorial at Imperial College London: Bayesian Optimization Cedric Archambeau (Amazon) November 8, 2017](https://youtu.be/jhvrl9PthBU?si=bj16xNfHyAcYCmIp)
+
 [Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
 
 [Bayesian Optimization, Marc Deisenroth, COMP0168 (2020/21)](https://youtu.be/_SC5_2vkgbA)
