@@ -1,4 +1,4 @@
-# Probabilistic Machine Learning Resources
+# Probabilistic Machine Learning and Bayesian Optimization Resources
 
 ## Books 
 
