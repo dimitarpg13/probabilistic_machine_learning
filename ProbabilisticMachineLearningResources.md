@@ -221,6 +221,10 @@
 
 [Bayesian Optimization, Roman Garnett, Tübingen Machine Learning, Probabilistic Numerics Spring School 2023 in Tübingen, March 2023](https://youtu.be/wZODGJzKmD0)
 
+### Bayesian Non-parametrics
+
+[Machine Learning Tutorial at Imperial College London: Bayesian Nonparametrics and Priors over Functions Carl Henrik Ek (University of Bristol) November 22, 2017](https://youtu.be/2icttI4YfFs?si=E-WzBRvPebUNipDg)
+
 ### Decision Trees and Random Forests
 
 [Decision Trees for Classification, Nando de Freitas, CBSC 540, UBC, Feb 12, 2013](https://youtu.be/-dCtJjlEEgM)
