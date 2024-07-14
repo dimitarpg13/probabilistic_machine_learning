@@ -110,6 +110,10 @@
 
 ### Bayesian Optimization
 
+* [Bayesian Optimization, Roman Garnett, Cambridge University Press, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bayesian_Optimization_Roman_Garnett_2023.pdf)
+
+* [Bayesian Optimization and Data Science, Francesco Archetti, Antonio Candelieri, Springer, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Bayesian_Optimization_and_Data_Science_Archetti_1stEd_2019.pdf)
+
 * [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, Eric Brochu, Vlad M. Cora and Nando Freitas, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_Tutorial_on_Bayesian_Optimization_of_Expensive_Cost_Functions_Brochu_2010.pdf)
 
 * [Vanilla Bayesian Optimization Performs Great in High Dimensions, Carl Hvarfner, Erik O. Hellsten, Luigi Nardi, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Vanilla_Bayesian_Optimization_Performs_Great_in_High_Dimensions_Hvarfner_2024.pdf)
