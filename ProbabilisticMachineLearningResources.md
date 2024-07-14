@@ -1,4 +1,4 @@
-# Probabilistic Machine Learning Resources
+# Probabilistic Machine Learning and Bayesian Learning Resources
 
 ## Books 
 
@@ -209,15 +209,23 @@
 
 [Active Learning with Gaussian Processes, Nando de Freitas, BCSC 540, UBC Feb 05, 2013](https://youtu.be/MfHKW5z-OOA)
 
+[Machine Learning Tutorial at Imperial College London: Gaussian Processes Richard Turner (University of Cambridge) November 23, 2016](https://youtu.be/92-98SYOdlY?si=nc8sWBCY43Im0j0j)
+
 ### Bayesian Optimization
 
 [Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
+
+[Machine Learning Tutorial at Imperial College London: Bayesian Optimization Cedric Archambeau (Amazon) November 8, 2017](https://youtu.be/jhvrl9PthBU?si=bj16xNfHyAcYCmIp)
 
 [Bayesian Optimization with Extensions, Applications, and other sundry items, Matthew W. Hoffman, DeepMind, Aug 6, 2018 , UAI 2018](https://youtu.be/C5nqEHpdyoE)
 
 [Bayesian Optimization, Marc Deisenroth, COMP0168 (2020/21)](https://youtu.be/_SC5_2vkgbA)
 
 [Bayesian Optimization, Roman Garnett, Tübingen Machine Learning, Probabilistic Numerics Spring School 2023 in Tübingen, March 2023](https://youtu.be/wZODGJzKmD0)
+
+### Bayesian Non-parametrics
+
+[Machine Learning Tutorial at Imperial College London: Bayesian Nonparametrics and Priors over Functions Carl Henrik Ek (University of Bristol) November 22, 2017](https://youtu.be/2icttI4YfFs?si=E-WzBRvPebUNipDg)
 
 ### Decision Trees and Random Forests
 
