@@ -148,6 +148,14 @@
 
 * [A New Acquisition Function for Multi-objective Bayesian Optimization: Correlated Probability of Improvement, K. Yang, UAS-Upper Austria, CSU Changsha, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/A_New_Acquisition_Function_for_Multi-objective_Bayesian_Optimization-Correlated_Probability_of_Improvement_Yang_UAS-UpperAustria_2023.pdf)
 
+### Bayesian Non-parametric Methods
+
+* [Bayesian Non-parametric Inference - Why and How, Peter Mueller, Riten Mitra, U of Texas, 2013](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/Bayesian_Nonparametric_Inference_Why_and_How_Mueler_nihms_2013.pdf)
+
+* [Bayesian Non-parametric Models, Peter Orbantz, Y.W. Teh, Cambridge U. , UCL, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/Bayesian_Nonparametric_Models_Orbanz_TEH_2010.pdf)
+
+* [Non-parametric Bayesian Methods: Uncertainty in Artificial Intelligence, Tutorial, Zoubin Ghahramani, Cambridge U., 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/TutorialNonParametricBayesianMethods_Ghahramani_Cambridge_2005.pdf)
+ 
 
 ### Theory of Random Matrices and their Applications
 
