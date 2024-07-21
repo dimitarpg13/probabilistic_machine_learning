@@ -155,7 +155,10 @@
 * [Bayesian Non-parametric Models, Peter Orbantz, Y.W. Teh, Cambridge U. , UCL, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/Bayesian_Nonparametric_Models_Orbanz_TEH_2010.pdf)
 
 * [Non-parametric Bayesian Methods: Uncertainty in Artificial Intelligence, Tutorial, Zoubin Ghahramani, Cambridge U., 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/TutorialNonParametricBayesianMethods_Ghahramani_Cambridge_2005.pdf)
- 
+
+### Variational Methods
+
+* [Introduction to Variational Methods for Graphical Models, M.I. Jordan et al, 1999](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/VariationalMethods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
 
 ### Theory of Random Matrices and their Applications
 
