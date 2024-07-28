@@ -238,6 +238,8 @@
 
 [Bayesian Optimization, Roman Garnett, Tübingen Machine Learning, Probabilistic Numerics Spring School 2023 in Tübingen, March 2023](https://youtu.be/wZODGJzKmD0)
 
+[Efficient Exploration in Bayesian Optimization – Optimism and Beyond by Andreas Krause, Google TechTalks, 2021](https://www.youtube.com/watch?v=p_PK1CuEuAE)
+
 ### Bayesian Non-parametrics
 
 [Machine Learning Tutorial at Imperial College London: Bayesian Nonparametrics and Priors over Functions Carl Henrik Ek (University of Bristol) November 22, 2017](https://youtu.be/2icttI4YfFs?si=E-WzBRvPebUNipDg)
