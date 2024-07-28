@@ -26,6 +26,8 @@
 
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
+[Cross-validatory Choice and Assessment of Statistical Prediction, M. Stone, University College London, 1974](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Cross-validatory_Choice_and_Assessment_of_Statistical_Predictions_Stone1974.pdf)
+
 ## Statistical Distributions
 
 [Laplace Distribution, Wikipedia](https://en.wikipedia.org/wiki/Laplace_distribution)
