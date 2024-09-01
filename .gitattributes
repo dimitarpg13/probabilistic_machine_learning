@@ -44,4 +44,4 @@ applied_statistics/articles/StatisticalDistributions/Multivariate_t-distribution
 applied_statistics/books/BayesianDataAnalysisGellman/BayesianDataAnalysisThirdEdition.pdf filter=lfs diff=lfs merge=lfs -text
 articles/bayesian_optimization/A_Tutorial_on_Bayesian_Optimization_of_Expensive_Cost_Functions_Brochu_2010.pdf filter=lfs diff=lfs merge=lfs -text
 books/ProbablisticMachineLearningIntroMurphy2021Draft.pdf filter=lfs diff=lfs merge=lfs -text
-
+applied_statistics/articles/Man_as_an_Intuitive_Statistician_Peterson_Beach_1967.pdf filter=lfs diff=lfs merge=lfs -text
