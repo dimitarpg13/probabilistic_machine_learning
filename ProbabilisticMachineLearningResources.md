@@ -166,6 +166,8 @@
 
 * [Probabilistic Modeling and Reasoning: The Junction Tree Algorithms, David Barber, 2003](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GraphicalModels/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
 
+* [Graphical Models, Exponential Families and Variational Inference, M. Wainwright, M. Jordan, 2008](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GraphicalModels/Graphical_models_exponential_families_and_variational_inference_by_Martin_Wainwright_and_Michael_Jordan.pdf)
+
 ### Variational Methods
 
 * [Introduction to Variational Methods for Graphical Models, M.I. Jordan et al, 1999](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/VariationalMethods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
