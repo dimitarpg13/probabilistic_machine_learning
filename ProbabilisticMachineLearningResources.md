@@ -160,6 +160,10 @@
 
 * [Non-parametric Bayesian Methods: Uncertainty in Artificial Intelligence, Tutorial, Zoubin Ghahramani, Cambridge U., 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayesianNonParametricModels/TutorialNonParametricBayesianMethods_Ghahramani_Cambridge_2005.pdf)
 
+### Probabilistic Graphical Models
+
+* [Probabilistic Modeling and Reasoning: The Junction Tree Algorithms, David Barber, 2003](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/GraphicalModels/Probabilistic_Modeling_And_Reasoning_The_Junction_Tree_Algorithm_David_Barber_2003.pdf)
+
 ### Variational Methods
 
 * [Introduction to Variational Methods for Graphical Models, M.I. Jordan et al, 1999](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/VariationalMethods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
