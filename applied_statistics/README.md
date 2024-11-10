@@ -28,7 +28,7 @@
 
 [Cross-validatory Choice and Assessment of Statistical Prediction, M. Stone, University College London, 1974](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Cross-validatory_Choice_and_Assessment_of_Statistical_Predictions_Stone1974.pdf)
 
-[Autoregressive Moving Average Model, Wiki](https://en.wikipedia.org/wiki/Autoregressive_moving-average_model)
+[Autoregressive Moving Average Model, Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_moving-average_model)
 
 [Autoregressive Integrated Moving Average Model, Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 
