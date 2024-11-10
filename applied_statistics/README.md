@@ -32,6 +32,8 @@
 
 [Autoregressive Integrated Moving Average Model, Wikipedia](https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average)
 
+[Autoregressive conditional heteroscedasticity with estimates of the variance of United Kingdom inflation, R. Engle, 1982](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Autoregressive_conditional_heteroscedasticity_with_estimates_of_the_variance_of_United_Kingdom_inflation_Engle_1982.pdf)
+
 [Generalized Autoregressive Conditional Heteroskedasticity Process, Tim Bollerslev, 1986](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/GARCH_Bollerslev_1986.pdf)
 
 ## Statistical Distributions
