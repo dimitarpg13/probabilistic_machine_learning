@@ -12,6 +12,8 @@
 
 [Large Sample Tests of Statistical Hypotheses Concerning Several Parameters with Applications to Problems of Estimation, C.R. Rao, 1948](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Large_Sample_Tests_of_Statistical_Hypotheses_Concerning_Several_Parameters_with_Applications_to_Problems_of_Estimation_Rao_1948.pdf)
 
+[The Monte Carlo Method, Nicholas Metropolis, S. Ulam, 1949](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MetropolisUlam_TheMonteCarloMethod.pdf)
+
 [Empirical Bayes Approach to Statistics, Herbert Robbins, Columbia U., 1956](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Empirical_Bayes_Approach_to_Statistics_Robbins_Columbia_1956.pdf)
 
 [On Transformation of Characteristic Functions, Eugene Lukasz, 1957](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTransformationOfAnalyticsFunctionsLukacs1957.pdf)
