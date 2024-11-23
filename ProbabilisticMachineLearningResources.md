@@ -70,6 +70,10 @@
 
 * [Modeling Almost Periodicity In Point Processes, N. Shao, PhD Thesis, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
+### Dimension Reduction
+
+* [Modern Dimension Reduction, Philip D. Waggoner, U of Chicago, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/DimensionReduction/Modern_Dimension_Reduction_Waggoner_2021.pdf)
+
 ### Monte Carlo Methods
 
 * [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, U of Chicago, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf)
