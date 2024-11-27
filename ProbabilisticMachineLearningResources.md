@@ -78,8 +78,6 @@
 
 * [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, U of Chicago, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf)
 
-* [Intrepid MCMC: Metropolis-Hastings with Exploration, Promit Chakroborty, Michael D. Shields, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/Intrepid_MCMC_Metropolis_Hastings_with_Exploration_Chakroborty_2024.pdf)
-
 ### Markov Processes
 
 * [Dynamic Programming and Markov Processes, Ronald A. Howard, 1960](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/markov/1960-howard-dynamicprogrammingmarkovprocesses.pdf)
@@ -101,6 +99,9 @@
 * [Creating animations with MCMC, Jan Krepl, online blog, 2024](https://jankrepl.github.io/creating-animations-with-MCMC/)
 
   relate repo: https://github.com/ColCarroll/imcmc
+
+* [Intrepid MCMC: Metropolis-Hastings with Exploration, Promit Chakroborty, Michael D. Shields, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/Intrepid_MCMC_Metropolis_Hastings_with_Exploration_Chakroborty_2024.pdf)
+
 
 ### Gaussian Processes
 
