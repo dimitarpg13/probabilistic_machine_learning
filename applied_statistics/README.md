@@ -1,5 +1,23 @@
 # Resource in Applied Statistics
 
+## books
+
+[The Design and Analysis of Experiments, Fisher, 9th Edition, 1935 (orig), 1971](https://github.com/dimitarpg13/probabilistic_machine_learning/tree/main/applied_statistics/books/TheDesignOfExperimentsFisher1956)
+
+[Experimental Design and Analysis, H.J. Seltman, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ExperimentalDesignAndAnalysisSeltman/ExperimentalDesignAndAnalysisBookSeltman.pdf)
+
+[Generalized Linear Models, P. McCullagh, J.A. Nelder, 2nd Edition, 1983](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/GeneralizedLinearModels/GeneralizedLinearModels_McCullagh_Nelder_1983.pdf)
+
+[Statistical Models, A.C. Davison, 2008](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/Davison_StatisticalModelsBook.pdf)
+
+[Applied Multivariate Statistical Analysis, R.A. Johnson, D.W. Wichern, 2007](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/AppliedMultivariateStatisticalAnalysisJohnsonandWichern.pdf)
+
+[Principles of Statistical Inference, D.R. Cox, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/AppliedMultivariateStatisticalAnalysisJohnsonandWichern.pdf)
+
+[Probability and Random Processes, G.R. Grimmelt, D.R. Stirzaker, 3rd Edition, 2001](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ProbabilityandRandomProcessesGrimmelt2001Oxford.pdf)
+
+[Probability and Measure, Patrick Billingsley, 3rd Edition, 1995](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ProbabilityAndMeasureBillingsleyThirdEdition.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
