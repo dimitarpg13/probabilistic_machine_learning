@@ -86,6 +86,8 @@
 
 [An Overview of Gaussian Mixture Models, Massimiliano Patachiolla, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/An_overview_of_Gaussian_Mixture_Models.pdf)
 
+[Multivariate Normal Variance Mixtures, Eric Hintz et al, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/Multivariate_Normal_Variance_Mixtures_Eric_Hintz_2024.pdf)
+
 [Expectation Maximization algorithms for Multivariate Gaussian Mixture Models with Truncated and Censored Data, G. Lee, C. Scott, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/EM_algorithms_for_multivariate_Gaussian_mixture_models_with_truncated_and_censored_data_Lee_2010.pdf)
 
 [Fit a Multivariate Gaussian Mixture Model by Using the Expectation Maximization Algorithm: the DO Loop, Rick Wicklin, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/Fit_a_multivariate_Gaussian_mixture_model_by_using_the_expectation-maximization_algorithm-The_DO_Loop.pdf)
