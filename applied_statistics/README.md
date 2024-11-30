@@ -32,6 +32,8 @@
 
 [A Handbook of Sequential Analysis, B.K. Ghosh, 1st Edition, 1991](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
 
+[Statistical Inference Lecture Notes, GU 4204, Bhodhisattva Sen, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/StatisticalInferenceBodhisatvaSen2020/Statistical_Inference_Lecture_Notes_BodhisatvaSen_2020.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
