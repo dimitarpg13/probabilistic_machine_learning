@@ -30,6 +30,8 @@
 
 [Introduction to Empirical Processes and Semi-parametric Inferences, M.R. Kosorok, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/IntroductionToEmpiricalProcessesAndSemiparametricInferencesKosorok2006.pdf)
 
+[A Handbook of Sequential Analysis, B.K. Ghosh, 1st Edition, 1991](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/SequentialAnalysis/handbook-of-sequential-analysis-statistics-a-series-of-textbooks-and-monographs-1nbsped.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
