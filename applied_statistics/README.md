@@ -18,6 +18,18 @@
 
 [Probability and Measure, Patrick Billingsley, 3rd Edition, 1995](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ProbabilityAndMeasureBillingsleyThirdEdition.pdf)
 
+[Bayesian Data Analysis, A. Gelman, JB Carlin, HS Stern, DB Dunson, A Vehtari, DB Rubin, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianDataAnalysisGellman/BayesianDataAnalysisThirdEdition.pdf)
+
+[Bayesian Theory, J. Bernardo, A. Smith, 1994](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianTheoryBernardo/BayesianTheoryBernardo_wiley1994.pdf)
+
+[Sampling and Estimation from Finite Population, Y. Tille, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/SamplingTechniques/sampling-and-estimation-from-finite-populations-wiley-series-in-probability-and-statistics.pdf)
+
+[Practical Sampling Techniques, Ranjan K. Som, 2nd Edition, 1995](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/SamplingTechniques/practical-sampling-techniques-statistics-a-series-of-textbooks-and-monographs-2nbsped.pdf)
+
+[Some Theory of Sampling, WE Deming, 1950](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/SamplingTechniques/some-theory-of-sampling_Demming_1950.pdf)
+
+[Introduction to Empirical Processes and Semi-parametric Inferences, M.R. Kosorok, 2006](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/IntroductionToEmpiricalProcessesAndSemiparametricInferencesKosorok2006.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
@@ -56,6 +68,9 @@
 
 [Generalized Autoregressive Conditional Heteroskedasticity Process, Tim Bollerslev, 1986](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/GARCH_Bollerslev_1986.pdf)
 
+[Tensors in Algebraic Statistics, L. Sierra, M. Casanellas, P. Zwiernik, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tensors_in_algebraic_statistics_Sierra_2024.pdf)
+
+[Approximations and Sampling of Multivariate Probability Distributions, S. Dolgov et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ApproximationandSamplingofMultivariateProbabilityDistributions.pdf)
 ## Statistical Distributions
 
 [Laplace Distribution, Wikipedia](https://en.wikipedia.org/wiki/Laplace_distribution)
