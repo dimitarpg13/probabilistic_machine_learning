@@ -60,6 +60,8 @@
 
 [The Likelihood Ratio, Wald, and Lagrange Multiplier Tests, A. Buse, 1982](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/The_Likelihood_Ratio_Wald_and_Lagrange_Multiplier_Tests_Buse_1982.pdf)
 
+[An Introduction to Likelihood Analysis, Andrew Pickl, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/introduction-likelihood-analysis-Pickles-1985.pdf)
+
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
 [Cross-validatory Choice and Assessment of Statistical Prediction, M. Stone, University College London, 1974](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Cross-validatory_Choice_and_Assessment_of_Statistical_Predictions_Stone1974.pdf)
@@ -75,6 +77,22 @@
 [Tensors in Algebraic Statistics, L. Sierra, M. Casanellas, P. Zwiernik, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tensors_in_algebraic_statistics_Sierra_2024.pdf)
 
 [Approximations and Sampling of Multivariate Probability Distributions, S. Dolgov et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ApproximationandSamplingofMultivariateProbabilityDistributions.pdf)
+
+### Baysian Linear Models
+
+[Bayesian Analysis of Linear Models, Chapter 1, Lyle Broemeling, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/BayesianAnalysisOfLinearModels_Broemeling_Chap1_1985.pdf)
+
+### Mixture Modeling
+
+[An Overview of Gaussian Mixture Models, Massimiliano Patachiolla, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/An_overview_of_Gaussian_Mixture_Models.pdf)
+
+[Expectation Maximization algorithms for Multivariate Gaussian Mixture Models with Truncated and Censored Data, G. Lee, C. Scott, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/EM_algorithms_for_multivariate_Gaussian_mixture_models_with_truncated_and_censored_data_Lee_2010.pdf)
+
+[Fit a Multivariate Gaussian Mixture Model by Using the Expectation Maximization Algorithm: the DO Loop, Rick Wicklin, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/Fit_a_multivariate_Gaussian_mixture_model_by_using_the_expectation-maximization_algorithm-The_DO_Loop.pdf)
+
+[Scale Mixtures of Normals, Andy Jones, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/Scale_mixture_of_normals_Andy_Jones.pdf)
+
+
 ## Statistical Distributions
 
 [Laplace Distribution, Wikipedia](https://en.wikipedia.org/wiki/Laplace_distribution)
