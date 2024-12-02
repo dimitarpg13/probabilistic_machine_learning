@@ -249,6 +249,26 @@
 
 [Machine Learning Tutorial at Imperial College London: Gaussian Processes Richard Turner (University of Cambridge) November 23, 2016](https://youtu.be/92-98SYOdlY?si=nc8sWBCY43Im0j0j)
 
+### Gaussian Processes Summer School, Shefield, 2020
+
+[Introduction to Gaussian Processes, Richard Wilkinson](https://www.youtube.com/live/GWHE5vnpxks?si=kvTbo-4uRAd7efQ8)
+
+[Kernel Design, Nicolas Durrande](https://www.youtube.com/live/dkd9mQDkwOo?si=WjdC0G9D7W0jMVpw)
+
+[Representation Learning with Gaussian Processes, Andrew Gordon Wilson](https://www.youtube.com/live/jq8A4keABx4?si=FsF2QroQrsl0ZcFb)
+
+[Variational Gaussian Processes, Zhenwen Dai](https://www.youtube.com/live/I9VZWIxSGUs?si=GDnRb3EBTLWsLQDH)
+
+[Unsupervised learning and composite GPs, Carl Henrik Ek](https://www.youtube.com/live/CrgxcZcZ2Qk?si=_3tTFFm907m-DVTz)
+
+[Multi-task Gaussian process modelling for point process data, Virginia Aglietti](https://www.youtube.com/live/C8wD4M9kCxA?si=dce1jbLsnL9fgEpW)
+
+[Deep Gaussian Processes, Neil D. Lawrence](https://www.youtube.com/live/apq-hrzB-sM?si=i8InnrAvPtGZojC0)
+
+[Introduction to Bayesian Optimisation, Javier Gonzalez](https://www.youtube.com/live/_RMY9W1RPzE?si=WStpac4VjncFK5xQ)
+
+[Bayesian Neural Networks from a Gaussian Process Perspective, Andrew Gordon Wilson](https://www.youtube.com/live/osEWq2sBobc?si=VDHNf1asVZ9DAUJO)
+
 ### Bayesian Optimization
 
 [Bayesian optimization, Thompson sampling and multi-armed bandits. Applications to algorithm configuration, intelligent user interfaces, advertising, control and other decision problems, Nando de Freitas, CBSC 540, UBC Feb 07, 2013](https://youtu.be/vz3D36VXefI)
