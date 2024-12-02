@@ -249,6 +249,8 @@
 
 [Machine Learning Tutorial at Imperial College London: Gaussian Processes Richard Turner (University of Cambridge) November 23, 2016](https://youtu.be/92-98SYOdlY?si=nc8sWBCY43Im0j0j)
 
+[ML Tutorial: Gaussian Processes, Richard Turner, University of Cambridge, Nov 23rd, 2016](https://youtu.be/92-98SYOdlY?si=gj7S8BsY2JCxRgST)
+
 ### Gaussian Processes Summer School, Shefield, 2020
 
 [Introduction to Gaussian Processes, Richard Wilkinson](https://www.youtube.com/live/GWHE5vnpxks?si=kvTbo-4uRAd7efQ8)
