@@ -251,7 +251,9 @@
 
 [From Bayesian Linear Regression to Gaussian processes, part 1 of Introduction to Gaussian Processes, Stefan Harmeling, January 9th, 2023, TU Dortmund](https://youtu.be/148EUutsU8Q?si=wGawLHXLdQ3f2UEO)
 
-[Gaussian Processes Implementation, part 2 of Introduction to Gaussian Processes, Stefan Harmeling, January 9th, 2023, TU Dortmund](https://youtu.be/wyCj9y1dFFY?si=N5wLGBJhSGUgQmSh)
+[Gaussian Processes Implementation, part 2 of Introduction to Gaussian Processes, Stefan Harmeling, January 11th, 2023, TU Dortmund](https://youtu.be/wyCj9y1dFFY?si=N5wLGBJhSGUgQmSh)
+
+[Kernel Design, Model Selection, GP Classificatiom, Laplace Approximation, part 3 of Introduction to Gaussian Processes, Stefan Harmeling, January 16th, 2023](https://youtu.be/LFu7DAJcGKI?si=gCLnAcbhysL7ZmNh)
 
 ### Gaussian Processes Summer School, Shefield, 2020
 
