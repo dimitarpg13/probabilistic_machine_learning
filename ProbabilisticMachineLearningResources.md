@@ -56,6 +56,8 @@
 
 * [Inference from Observations to Simple Statistical Hypotheses, J. Grossman, PhD Thesis, University of Sydney, 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/statistical_inference_grossman_phd_thesis_2005.pdf)
 
+* [Likelihood Inference, Nancy Reid, U of Toronto, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/statistical_inference/Likelihood_inference_Reid_UToronto_2010.pdf)
+
 * [Bayesian Analysis of Spatial Point Patterns, Thomas Leininger, Duke U., 2014](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/BayseianAnalysisForSpatialPointPatternsTLeininger_Dissertation.pdf)
 
 * [A Bayesian Framework for Concept Learning, Joshua Tenenbaum, PhD Thesis, MIT, 1999](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/ABayesianFrameworkforConceptLearningTanenbaum1999.pdf)
