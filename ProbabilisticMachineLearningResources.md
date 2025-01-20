@@ -185,6 +185,14 @@
 
 * [Introduction to Variational Methods for Graphical Models, M.I. Jordan et al, 1999](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/VariationalMethods/Intro_to_Variatonal_Methods_for_Graphical_Models_Jordan_1999.pdf)
 
+### Representation Learning
+
+[Cross-Entropy is All You Need to Invert the Data Generating Process, P. Reizinger et al, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/RepresentationLearning/Cross-Entropy_is_All_You_Need_to_Invert_the_Data_Generating_Process_Reizinger_2024.pdf)
+
+[Occam's Razor for Self-Supervised Learning - What Is Sufficient to Learn Good Representations ?, M. Ibrahim et al, Meta FAIR, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/RepresentationLearning/Occams_Razor_for_Self_Supervised_Learning-What_is_Sufficient_to_Learn_Good_Representations_Ibrahim_2024.pdf)
+
+[The Platonic Representation Hypothesis, M. Huh et al, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/RepresentationLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf)
+
 ### Theory of Random Matrices and their Applications
 
 * [Introduction to Random Matrices: Theory and Practice, G. Livan, M. Novaes, P. Vivo, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Introduction_to_Random_Matrices_Livan_2017.pdf)
