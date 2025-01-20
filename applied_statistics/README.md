@@ -116,3 +116,9 @@
 [Multivariate Student t distribution, Wikipedia](https://en.wikipedia.org/wiki/Multivariate_t-distribution)
 
 [Mulitvariate Laplace distribution, Wikipedia](https://en.wikipedia.org/wiki/Multivariate_Laplace_distribution)
+
+[Skew-normal distribution](https://en.wikipedia.org/wiki/Skew_normal_distribution)
+
+[A Generalization of the Skew-Normal Distribution - the Beta Skew-normal, V. Mamelli, M. Musio, 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/StatisticalDistributions/A_Generalization_of_the_Skew-Normal_Distribution-the_Beta_Skewnormal_Mameli_2011.pdf)
+
+[Skew-normal Posterior Approximations, J. Zhou et al, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/StatisticalDistributions/Skew-Normal_Posterior_Approximations_Zhou_2023.pdf)
