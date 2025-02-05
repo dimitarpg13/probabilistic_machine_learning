@@ -60,3 +60,4 @@ articles/RepresentationLearning/Occams_Razor_for_Self_Supervised_Learning-What_i
 applied_statistics/articles/StatisticalDistributions/A_Generalization_of_the_Skew-Normal_Distribution-the_Beta_Skewnormal_Mameli_2011.pdf filter=lfs diff=lfs merge=lfs -text
 articles/RepresentationLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2024.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/StatisticalDistributions/Skew-Normal_Posterior_Approximations_Zhou_2023.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/articles/MaximumLikelihood_from_Incomplete_Data_via_the_EM_Algorithm_Dempster77.pdf filter=lfs diff=lfs merge=lfs -text
