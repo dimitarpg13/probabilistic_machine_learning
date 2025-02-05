@@ -56,6 +56,8 @@
 
 [The Empirical Characteristic Function and Its Applications, Andrey Feuerverger, Roman A. Mureika, 1977](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/EmpiricalCharacteristicFunctionAndItsApplicationsFeuerverger1977.pdf)
 
+[MaximumLikelihood from Incomplete Data via the EM Algorithm, A. P. Dempster, N. M. Laird, D. B. Rubin, 1977](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MaximumLikelihood_from_Incomplete_Data_via_the_EM_Algorithm_Dempster77.pdf)
+
 [Central Limit Theorems for Empirical Measures, R.M. Dudley, MIT, 1978](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/CentralLimitTheoremForEmpiricalMeasuresDudley1978.pdf)
 
 [The Likelihood Ratio, Wald, and Lagrange Multiplier Tests, A. Buse, 1982](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/The_Likelihood_Ratio_Wald_and_Lagrange_Multiplier_Tests_Buse_1982.pdf)
