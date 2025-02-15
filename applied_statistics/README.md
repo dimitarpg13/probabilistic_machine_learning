@@ -34,6 +34,8 @@
 
 [Statistical Inference Lecture Notes, GU 4204, Bhodhisattva Sen, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/StatisticalInferenceBodhisatvaSen2020/Statistical_Inference_Lecture_Notes_BodhisatvaSen_2020.pdf)
 
+[Linear Statistical Inference and Its Applications, C.R. Rao, Second Edition, Penn State U., 1973](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/LinearStatisticalInferenceAndItsApplication/LinearStatisticalInferenceAndItsApplicationsRao1973.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
