@@ -36,6 +36,8 @@
 
 [Linear Statistical Inference and Its Applications, C.R. Rao, Second Edition, Penn State U., 1973](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/LinearStatisticalInferenceAndItsApplication/LinearStatisticalInferenceAndItsApplicationsRao1973.pdf)
 
+[The Fundamentals of Heavy Tails: Properties, Emergence, and Estimation, Jayakrishnan Nair, Adam Wierman, and Bert Zwart, Draft, 2022](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/HeavyTails/The_Fundamentals_of_Heavy_Tails-Properties_Emergence_and_Estimation_Nair_Wierman_Draft.pdf)
+
 ## articles
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
