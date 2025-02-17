@@ -62,3 +62,4 @@ articles/RepresentationLearning/The_Platonic_Representation_Hypothesis_Huh_MIT_2
 applied_statistics/articles/StatisticalDistributions/Skew-Normal_Posterior_Approximations_Zhou_2023.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/MaximumLikelihood_from_Incomplete_Data_via_the_EM_Algorithm_Dempster77.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/LinearStatisticalInferenceAndItsApplication/LinearStatisticalInferenceAndItsApplicationsRao1973.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/books/HeavyTails/The_Fundamentals_of_Heavy_Tails-Properties_Emergence_and_Estimation_Nair_Wierman_Draft.pdf filter=lfs diff=lfs merge=lfs -text
