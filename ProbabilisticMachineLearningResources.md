@@ -201,6 +201,10 @@
 
 * [Can customer arrival rates be modelled by sine waves?, N. Chen et al, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/CanCustomerArrivalRatesBeModeledAsNoisyData.pdf)
 
+* [Random Matrix Theory, Alan Edelman, N. Raj Rao, 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/random_matrices/Random_matrix_theory_Edelman_2005.pdf)
+
+* [Covariance of Random Matrix, StackExchange, 2017](https://stats.stackexchange.com/questions/203299/covariance-between-two-random-matrices)
+
 ## medium
 
 * [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
