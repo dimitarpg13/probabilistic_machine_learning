@@ -205,6 +205,8 @@
 
 * [Covariance of Random Matrix, StackExchange, 2017](https://stats.stackexchange.com/questions/203299/covariance-between-two-random-matrices)
 
+* [Terence Tao - Delocalization of Eigenvectors of Random Matrices - A Survey (February 20, 2025)](https://youtu.be/6KjnOGiKWOM?si=ZTwyvadF38zZjNyQ)
+
 ## medium
 
 * [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
