@@ -100,6 +100,9 @@
 
 [Scale Mixtures of Normals, Andy Jones, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MixtureModeling/Scale_mixture_of_normals_Andy_Jones.pdf)
 
+### Causality
+
+[A natural experiment on the effect of herpes zoster vaccination on dementia, Markus Eyting et al, Nature, 2025](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Causality/A_natural_experiment_on_the_effect_of_herpes_zoster_vaccination_on_dementia_Eyting_2025.pdf)
 
 ## Statistical Distributions
 
