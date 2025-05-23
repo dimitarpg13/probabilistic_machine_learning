@@ -50,6 +50,8 @@
 
 * [Markov Chains: Gibbs Fields, Monte Carlo Simulation and Queues, Pierre Bremaud, 1998](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.pdf)
 
+* [Patterns, Predictions, and Actions, Moritz Hardt and Benjamin Recht, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Patterns_Predictions_and_Actions_Hardt_2024.pdf)
+
 ## articles
 
 * [Bayesian Data Analysis, 3rd Edition, Gelman, Carlin, Stern, Dunson, et al., 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_learning/BayesianDataAnalysisThirdEdition.pdf)
