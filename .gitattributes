@@ -67,3 +67,4 @@ books/Probabilistic_Artificial_Intelligence_Krause_Huebotter_2025.pdf filter=lfs
 articles/MCTS/Monte-Carlo_Tree_Search_as_Regularized_Policy_Optimization_Grill_2020.pdf filter=lfs diff=lfs merge=lfs -text
 articles/MCTS/Monte_Carlo_Tree_Search-A_Review_of_Recent_Modifications_and_Applications_Swiechowski_2022.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/Causality/A_natural_experiment_on_the_effect_of_herpes_zoster_vaccination_on_dementia_Eyting_2025.pdf filter=lfs diff=lfs merge=lfs -text
+books/Patterns_Predictions_and_Actions_Hardt_2024.pdf filter=lfs diff=lfs merge=lfs -text
