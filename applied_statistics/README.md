@@ -102,7 +102,7 @@
 
 ### Causality
 
-[Correlation and Causation, Sewall Wright, 2021](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Correlation_and_Causation_Wright_1921.pdf)
+[Correlation and Causation, Sewall Wright, 1921](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Correlation_and_Causation_Wright_1921.pdf)
 
 [A natural experiment on the effect of herpes zoster vaccination on dementia, Markus Eyting et al, Nature, 2025](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Causality/A_natural_experiment_on_the_effect_of_herpes_zoster_vaccination_on_dementia_Eyting_2025.pdf)
 
