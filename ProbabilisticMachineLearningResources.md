@@ -209,6 +209,19 @@
 
 * [Terence Tao - Delocalization of Eigenvectors of Random Matrices - A Survey (February 20, 2025)](https://youtu.be/6KjnOGiKWOM?si=ZTwyvadF38zZjNyQ)
 
+
+### Reinforcement Learning As Probabilistic Modeling
+
+* [Reinforcement Learning as Probabilistic Modelling: A Variational Inference Formulation (Part I), Haitham Bou Ammar, 2025](https://haithambouammar.substack.com/p/reinforcement-learning-as-probabilistic?r=5tkp1b&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
+related material:
+
+paper by David Blei: [Variational Inference - A Review for Statisticians, D. Blei, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/VariationalMethods/Variational_Inference-A_Review_for_Statisticians_Blei_2018.pdf)
+
+youtube lecture: [Variational Inference Lecture I|Probabilistic Modelling|Machine Learning, Machine Learning and AI Academy, 2020](https://youtu.be/nug3rz-4Lkg?si=DFqKPWohY8zzS8c6)
+
+github repo: https://zhiyzuo.github.io/VI/
+
 ## medium
 
 * [Understanding Diffusion Probabilistic Models (DPMs) with Joseph Rocca](https://towardsdatascience.com/understanding-diffusion-probabilistic-models-dpms-1940329d6048)
