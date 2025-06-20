@@ -42,6 +42,8 @@
 
 [On the Value of a Mean as Calculated by Sample, L. Isserlis, 1918](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheValueOfAMeanAsCalculatedFromASampleIsserlis1918.pdf)
 
+[Correlation and Causation, Sewall Wright, 1921](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Correlation_and_Causation_Wright_1921.pdf)
+
 [On The Problem of the Most Efficient Tests of Statistical Hypotheses, J. Neyman, E.S. Pearson, 1933](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/NeymanPearson1933.pdf)
 
 [Limiting Distributions of Certain Statistics, J.L. Doob, 1938](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/LimitingDistributionsOfCertainStatisticsDoob1938.pdf)
