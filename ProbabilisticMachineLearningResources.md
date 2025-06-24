@@ -20,6 +20,8 @@
 
 * [Statistical Rethinking: A Bayesian Course with Examples of R and Stan, Richard McElreath, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/StatisticalRethinkingABayesianCourseMcElreath/statistical-rethinking-a-bayesian-course-with-examples-in-r-and-stan-2ed.pdf)
 
+* [Gaussian Processes and Reproducing Kernels: Connections and Equivalences, Motonobu Kanagawa et al, 2025](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/Gaussian_Processes_and_Reproducing_Kernels-Connections_and_Equivalences_Kanagawa_2025.pdf)
+
 * [Monte Carlo Statistical Methods, Christian P. Robert, George Cassela, 2nd Edition, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/robert2004monte_carlo_statistical_methods.pdf)
 
 * [Experimental Design and Analysis, Howard J. Seltman, 2018](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ExperimentalDesignAndAnalysisSeltman/ExperimentalDesignAndAnalysisBookSeltman.pdf)
