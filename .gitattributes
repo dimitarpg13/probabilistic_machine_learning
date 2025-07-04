@@ -90,3 +90,4 @@ applied_statistics/articles/JeffreysRuleForConditioning/A_Generalization_of_Baye
 applied_statistics/articles/JeffreysRuleForConditioning/Belief_Functions_and_Parametric_Models_Shaffer_1983.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/docs/Bayesian_Analysis_of_Linear_Models_Chapter1.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/docs/Bayesian_Analysis_of_Linear_Models_Chapter3_p43-44.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/docs/Bayesian_Analysis_of_Linear_Models_Chapter5_p69-70.pdf filter=lfs diff=lfs merge=lfs -text
