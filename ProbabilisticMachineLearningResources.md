@@ -288,6 +288,8 @@ github repo: https://zhiyzuo.github.io/VI/
 
 [Kernel Design, Model Selection, GP Classificatiom, Laplace Approximation, part 3 of Introduction to Gaussian Processes, Stefan Harmeling, January 16th, 2023](https://youtu.be/LFu7DAJcGKI?si=gCLnAcbhysL7ZmNh)
 
+[Extra Lecture - Gaussian Processes, Machine Learning for Engineers, 2021](https://youtu.be/5ZOPtHKzHrM?si=l4m2A2zwVdWqpgQK)
+
 ### Gaussian Processes Summer School, Shefield, 2020
 
 [Introduction to Gaussian Processes, Richard Wilkinson](https://www.youtube.com/live/GWHE5vnpxks?si=kvTbo-4uRAd7efQ8)
