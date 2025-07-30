@@ -42,6 +42,8 @@
 
 * [Markov Processes: Theorems and Problems, E. Dynkin, A. Yushkevich, 1969](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/MarkovProcessesDynkin1969.pdf)
 
+* [Markov Decision Processes: Discrete Stochastic Dynamic Programming, Martin L. Putterman, 2005](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/MarkovDecisionProcesses_Putterman_2005.pdf)
+
 * [An Introduction to the Theory of Point Processes: Vol I Elementary Theory and Methods, D.J. Daley, D. Vere-Jones, 2nd Edition, 2002](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/IntroToTheoryOfPointProcessesVol1.pdf)
 
 * [The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning, RY Rubinstein, DP Kroese, 2004](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/books/The_Cross_Entropy_Method_A_Unified_Approach_Rubinstein_Kroese_2004.pdf)
