@@ -50,7 +50,6 @@ books/Markov_Chains_Gibbs_Fields_Monte_Carlo_Simulation_and_Queues_Bremaud_1998.
 articles/GraphicalModels/Graphical_models_exponential_families_and_variational_inference_by_Martin_Wainwright_and_Michael_Jordan.pdf filter=lfs diff=lfs merge=lfs -text
 books/BayesianReasoningAndMachineLearningBarber2007-2020.pdf filter=lfs diff=lfs merge=lfs -text
 articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf filter=lfs diff=lfs merge=lfs -text
-articles/DimensionReduction/Modern_Dimension_Reduction_Waggoner_2021.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/DiscriminantAnalysis/Introduction-to-multivariate-statistical-analysis_Anderson_2003.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/DiscriminantAnalysis/lecture14_discriminant_analysis.pdf filter=lfs diff=lfs merge=lfs -text
 articles/MonteCarlo/Intrepid_MCMC_Metropolis_Hastings_with_Exploration_Chakroborty_2024.pdf filter=lfs diff=lfs merge=lfs -text
