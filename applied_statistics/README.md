@@ -116,6 +116,14 @@
 
 [A natural experiment on the effect of herpes zoster vaccination on dementia, Markus Eyting et al, Nature, 2025](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Causality/A_natural_experiment_on_the_effect_of_herpes_zoster_vaccination_on_dementia_Eyting_2025.pdf)
 
+### Econometrics
+
+[An MCMC Approach to Classical Estimation, Victor Chernozhukov, Han Hong, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/An_MCMC_Approach_to_Classical_Estimation_Chrnozhukov_2023.pdf)
+
+[Bayesian Econometrics, Victor Chernozhukov, 2003](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/Bayesian_Econometrics_Chernozhukov.pdf)
+
+[Bayesian Econometric Methods, Joshua Chan et al, 2020](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/Bayesian_Econometric_Methods_Chan_2020.pdf)
+
 ## Statistical Distributions
 
 [Laplace Distribution, Wikipedia](https://en.wikipedia.org/wiki/Laplace_distribution)
