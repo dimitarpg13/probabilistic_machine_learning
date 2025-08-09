@@ -97,3 +97,4 @@ books/MarkovDecisionProcesses_Putterman_2005.pdf filter=lfs diff=lfs merge=lfs -
 applied_statistics/books/BayesianEconometrics/Bayesian_Approaches_to_Shrinkage_and_Sparse_Estimation_Korobilis_2021.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/BayesianEconometrics/Bayesian_Econometrics_Gary_Koop_2003.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/BayesianEconometrics/Contemporary_Bayesian_Econometrics_and_Statistics_Geweke_2005.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/books/BayesianEconometrics/FirstCourseInBayesianStatisticalMethods_Hoff_2009.pdf filter=lfs diff=lfs merge=lfs -text
