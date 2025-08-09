@@ -98,3 +98,4 @@ applied_statistics/books/BayesianEconometrics/Bayesian_Approaches_to_Shrinkage_a
 applied_statistics/books/BayesianEconometrics/Bayesian_Econometrics_Gary_Koop_2003.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/BayesianEconometrics/Contemporary_Bayesian_Econometrics_and_Statistics_Geweke_2005.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/BayesianEconometrics/FirstCourseInBayesianStatisticalMethods_Hoff_2009.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/articles/Econometrics/An_MCMC_Approach_to_Classical_Estimation_Chrnozhukov_2023.pdf filter=lfs diff=lfs merge=lfs -text
