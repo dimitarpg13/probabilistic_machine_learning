@@ -95,3 +95,4 @@ applied_statistics/docs/Bayesian_Analysis_of_Linear_Models_Chapter6_p83-84.pdf f
 articles/DimensionReduction/Modern_Dimension_Reduction_Waggoner_2021.pdf filter=lfs diff=lfs merge=lfs -text
 books/MarkovDecisionProcesses_Putterman_2005.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/books/BayesianEconometrics/Bayesian_Approaches_to_Shrinkage_and_Sparse_Estimation_Korobilis_2021.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/books/BayesianEconometrics/Bayesian_Econometrics_Gary_Koop_2003.pdf filter=lfs diff=lfs merge=lfs -text
