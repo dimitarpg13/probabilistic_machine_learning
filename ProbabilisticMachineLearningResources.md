@@ -110,6 +110,8 @@
 
   relate repo: https://github.com/ColCarroll/imcmc
 
+* [Geometry & Dynamics for Markov Chain Monte Carlo, Alessandro Barp et al, Imperial College, 2017](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/Geometry_and_Dynamics_for_Markov_Chain_Monte_Carlo_Barp_2017.pdf)
+
 * [Intrepid MCMC: Metropolis-Hastings with Exploration, Promit Chakroborty, Michael D. Shields, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/MonteCarlo/Intrepid_MCMC_Metropolis_Hastings_with_Exploration_Chakroborty_2024.pdf)
 
 
