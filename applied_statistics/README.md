@@ -68,6 +68,8 @@
 
 [On the Arithmetical Properties of Certain Entire Analytical Functions, Eugene Lukasz, 1966](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheArithmeticPropertiesOfCertainEntireAnalyticFunctionsLukacs.pdf)
 
+[Man as an Intuitive Statistician, C.R. Peterson, L.R. Beach, 1967](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Man_as_an_Intuitive_Statistician_Peterson_Beach_1967.pdf)
+
 [The Empirical Characteristic Function and Its Applications, Andrey Feuerverger, Roman A. Mureika, 1977](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/EmpiricalCharacteristicFunctionAndItsApplicationsFeuerverger1977.pdf)
 
 [MaximumLikelihood from Incomplete Data via the EM Algorithm, A. P. Dempster, N. M. Laird, D. B. Rubin, 1977](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/MaximumLikelihood_from_Incomplete_Data_via_the_EM_Algorithm_Dempster77.pdf)
@@ -94,7 +96,6 @@
 
 [Approximations and Sampling of Multivariate Probability Distributions, S. Dolgov et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ApproximationandSamplingofMultivariateProbabilityDistributions.pdf)
 
-[Man as an Intuitive Statistician, C.R. Peterson, L.R. Beach, 1967](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Man_as_an_Intuitive_Statistician_Peterson_Beach_1967.pdf)
 
 ### Baysian Linear Models
 
