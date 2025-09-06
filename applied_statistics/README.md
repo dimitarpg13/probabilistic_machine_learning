@@ -94,6 +94,8 @@
 
 [Approximations and Sampling of Multivariate Probability Distributions, S. Dolgov et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ApproximationandSamplingofMultivariateProbabilityDistributions.pdf)
 
+[Man as an Intuitive Statistician, C.R. Peterson, L.R. Beach, 1967](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Man_as_an_Intuitive_Statistician_Peterson_Beach_1967.pdf)
+
 ### Baysian Linear Models
 
 [Bayesian Analysis of Linear Models, Chapter 1, Lyle Broemeling, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/BayesianAnalysisOfLinearModels_Broemeling_Chap1_1985.pdf)
