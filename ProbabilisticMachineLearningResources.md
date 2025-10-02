@@ -78,6 +78,8 @@
 
 * [On The Optimality of the Simple Bayesian Classifier under Zero-One Loss, Domingos, Pazzani, 1997](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/OntheOptimalityoftheSimpleBayesianClassifierunderZero-OneLoss.pdf)
 
+* [Precis of Bayesian Rationality: The Probabilistic Approach to Human Reasoning, Mike Oaksford, Nick Chater, Behavioral and Brain Sciences, 2009](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/bayesian_optimization/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_2009.pdf)
+
 * [Modeling Almost Periodicity In Point Processes, N. Shao, PhD Thesis, 2010](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/articles/ModelingAlmostPeriodicityInPointProcesses2010Thesis.pdf)
 
 ### Dimension Reduction
