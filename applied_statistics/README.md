@@ -80,6 +80,8 @@
 
 [An Introduction to Likelihood Analysis, Andrew Pickl, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/introduction-likelihood-analysis-Pickles-1985.pdf)
 
+[Conversation with Persi Diaconis on Statistical Science, Morris H. DeGroot, 1986](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Conversation_with_Persi_Diaconis_DeGroot_1986.pdf)
+
 [Tweedie's Formula and Selection Bias, Vradley Efron, Stanford U., 2011](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Tweedies_Formula_and_Selection_Bias_Effron_Stanford_2011.pdf)
 
 [Cross-validatory Choice and Assessment of Statistical Prediction, M. Stone, University College London, 1974](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Cross-validatory_Choice_and_Assessment_of_Statistical_Predictions_Stone1974.pdf)
@@ -100,6 +102,8 @@
 ### Baysian Linear Models
 
 [Bayesian Analysis of Linear Models, Chapter 1, Lyle Broemeling, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/BayesianAnalysisOfLinearModels_Broemeling_Chap1_1985.pdf)
+
+[Lecture Notes on Linear Regression, Danillo Petti, U. of Essex, 2023-2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/lecture_notes/Lecture_notes_in_Linear_Regression_Danilo_Petti_2023.pdf)
 
 ### Mixture Modeling
 
