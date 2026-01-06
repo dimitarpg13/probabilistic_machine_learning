@@ -104,3 +104,4 @@ articles/MonteCarlo/Geometry_and_Dynamics_for_Markov_Chain_Monte_Carlo_Barp_2017
 applied_statistics/articles/Man_as_intuitive_statistitian_Peterson_1967.pdf filter=lfs diff=lfs merge=lfs -text
 articles/bayesian_optimization/Precis_of_Bayesian_Rationality-The_Probabilistic_Approach_to_Human_Reasoning_Oaksford_2009.pdf filter=lfs diff=lfs merge=lfs -text
 applied_statistics/articles/Conversation_with_Persi_Diaconis_DeGroot_1986.pdf filter=lfs diff=lfs merge=lfs -text
+applied_statistics/books/Proof/Proof_the-uncertain-science-of-certainty-Kucharski_2025.pdf filter=lfs diff=lfs merge=lfs -text
