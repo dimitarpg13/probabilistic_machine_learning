@@ -46,6 +46,8 @@
 
 [Bayesian Econometrics, Gary Koop, 2003](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/BayesianEconometrics/Bayesian_Econometrics_Gary_Koop_2003.pdf)
 
+[Lecture Notes on Statistics and Information Theory, John Duchi, 2023](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/Lecture_Notes_on_Statisitics_and_Information_Theory_Duchi_2023.pdf)
+
 [Proof: The Uncertain Science of Certainty, Adam Kucharski, 2025](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/Proof/Proof_the-uncertain-science-of-certainty-Kucharski_2025.pdf)
 
 ## articles
