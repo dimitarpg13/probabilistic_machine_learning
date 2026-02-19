@@ -70,6 +70,8 @@
 
 [On Transformation of Characteristic Functions, Eugene Lukasz, 1957](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTransformationOfAnalyticsFunctionsLukacs1957.pdf)
 
+[Nonparametric Estimation from Incomplete Observations, E.L. Kaplan, Paul Meier, 1958](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Nonparametric_Estimation_from_Incomplete_Observations_Kaplan_1958.pdf)
+
 [On the Arithmetical Properties of Certain Entire Analytical Functions, Eugene Lukasz, 1966](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnTheArithmeticPropertiesOfCertainEntireAnalyticFunctionsLukacs.pdf)
 
 [Man as an Intuitive Statistician, C.R. Peterson, L.R. Beach, 1967](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Man_as_an_Intuitive_Statistician_Peterson_Beach_1967.pdf)
