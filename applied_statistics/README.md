@@ -104,6 +104,7 @@
 
 [Approximations and Sampling of Multivariate Probability Distributions, S. Dolgov et al, 2019](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/books/ApproximationandSamplingofMultivariateProbabilityDistributions.pdf)
 
+[A Gentle Introduction to Matrix Calculus, Jan R. Magnus, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/A_gentle_introduction_to_matrix_calculus_Magnus_2024.pdf)
 
 ### Baysian Linear Models
 
