@@ -58,6 +58,9 @@
 
 [On The Problem of the Most Efficient Tests of Statistical Hypotheses, J. Neyman, E.S. Pearson, 1933](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/NeymanPearson1933.pdf)
 
+[Two Different Aspects of the Representative Method: The Method of Stratified
+Sampling and the Method of Purposive Selection, J. Neyman, 1934](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Two_Different_Aspects_of_the_Representative_Method-The_Method_of_Stratified_Sampling_and_the_Method_of_Purposive_Selection_Neyman_1934.pdf)
+
 [Limiting Distributions of Certain Statistics, J.L. Doob, 1938](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/LimitingDistributionsOfCertainStatisticsDoob1938.pdf)
 
 [On Stochastic and Order Relationships, H.B. Mann, A. Wald, 1943](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/OnStochasticLimitsAndOrderRelationshipsMann1943.pdf)
