@@ -109,6 +109,8 @@ Sampling and the Method of Purposive Selection, J. Neyman, 1934](https://github.
 
 [A Gentle Introduction to Matrix Calculus, Jan R. Magnus, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/A_gentle_introduction_to_matrix_calculus_Magnus_2024.pdf)
 
+[Confidence as Forecast: A Decision-Theoretic Interpretation of Confidence Intervals, Scott Lee, 2026](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/Confidence_as_Forecast-A_Decision-Theoretic_Interpretation_of_Confidence_Intervals_Lee_2026.pdf)
+
 [Either a Confidence Interval Covers, or It Doesn’t (Or Does It?): A Model-Based View of Ex-Post Coverage Probability, Scott Lee, 2026](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Either_a_Confidence_Interval_Covers_or_It_Doesnt_Or_Does_It-A_Model-Based_View_of_Ex-Post_Coverage_Probability_Lee_2026.pdf)
 
 ### Baysian Linear Models
