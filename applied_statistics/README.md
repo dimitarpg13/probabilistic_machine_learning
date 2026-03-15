@@ -106,6 +106,8 @@
 
 [A Gentle Introduction to Matrix Calculus, Jan R. Magnus, 2024](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Econometrics/A_gentle_introduction_to_matrix_calculus_Magnus_2024.pdf)
 
+[Either a Confidence Interval Covers, or It Doesn’t (Or Does It?): A Model-Based View of Ex-Post Coverage Probability, Scott Lee, 2026](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/Either_a_Confidence_Interval_Covers_or_It_Doesnt_Or_Does_It-A_Model-Based_View_of_Ex-Post_Coverage_Probability_Lee_2026.pdf)
+
 ### Baysian Linear Models
 
 [Bayesian Analysis of Linear Models, Chapter 1, Lyle Broemeling, 1985](https://github.com/dimitarpg13/probabilistic_machine_learning/blob/main/applied_statistics/articles/BayesianLinearModeling/BayesianAnalysisOfLinearModels_Broemeling_Chap1_1985.pdf)
